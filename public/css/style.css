@@ -3,9 +3,17 @@ body{
     background-color: #f0db99;
 }
 
+.jumbotron {
+    background-color: #f0db99;
+    font-family: 'Frijole', cursive;
+}
 
 .wrapper {
     margin: 0 100px 0 100px;
+}
+
+.burger-img {
+    height: 150px;
 }
 
 .row{
